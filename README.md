@@ -37,7 +37,7 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 **PROGRAM**
 
-    module ex10(clk, sin, q);
+    module SISO(clk, sin, q);
     
     input clk;
     
